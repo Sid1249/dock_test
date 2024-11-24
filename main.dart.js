@@ -18442,7 +18442,7 @@ agV(a){var s,r,q,p,o
 for(s=a.length,r=0;r<a.length;a.length===s||(0,A.F)(a),++r){q=a[r]
 if(!$.H0.U(q)){p=q.a
 o=q.d
-$.H0.m(0,q,B.BE[B.f.cR(A.G(p,"MaterialIcons",null,o,A.by(B.iV),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a),18)])}}}},B={}
+$.H0.m(0,q,B.BF[B.f.cR(A.G(p,"MaterialIcons",null,o,A.by(B.iV),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a),18)])}}}},B={}
 var w=[A,J,B]
 var $={}
 A.vh.prototype={
@@ -26628,7 +26628,7 @@ n=A.uO(s.k(0,"fontWeightIndex"))
 m=n!=null?A.a0m(n):"normal"
 r=A.a55(s.k(0,"fontSize"))
 if(r==null)r=null
-q=new A.Rl(new A.Jz(r,m,A.bP(s.k(0,"fontFamily")),B.BZ[p],B.BF[o]))
+q=new A.Rl(new A.Jz(r,m,A.bP(s.k(0,"fontFamily")),B.BZ[p],B.BG[o]))
 break
 case"TextInput.clearClient":q=B.vo
 break
@@ -34407,7 +34407,7 @@ A.mB.prototype={
 D(){return"_CornerId."+this.b}}
 A.hs.prototype={}
 A.lL.prototype={
-fR(){var s,r,q=this,p=A.afu(B.BG,new A.ML(q,q.b.gau().W(0,q.a.gau()))),o=q.a
+fR(){var s,r,q=this,p=A.afu(B.BH,new A.ML(q,q.b.gau().W(0,q.a.gau()))),o=q.a
 o.toString
 s=p.a
 o=q.jy(o,s)
@@ -44768,7 +44768,7 @@ A.h8.prototype={}
 A.yO.prototype={
 h8(a,b){var s,r,q,p,o,n=$.aX.a8$.f.c
 if(n==null||n.e==null)return!1
-for(s=t.o,r=0;r<2;++r){q=B.BH[r]
+for(s=t.o,r=0;r<2;++r){q=B.BI[r]
 p=n.e
 p.toString
 o=A.Zj(p,q,s)
@@ -51780,7 +51780,7 @@ return A.vj(null,B.X,null,B.K,59,new A.aV(r,0,r,0),s)},
 $S:107}
 A.wJ.prototype={
 L(a){var s=null,r=A.l9(8),q=t.sH
-return A.yI(s,A.jh(s,A.a1t(A.X(new A.ag(B.BI,new A.Ki(),q),!0,q.h("ao.E")),B.ez,B.db),B.w,s,s,new A.cN(B.ih,s,s,r,s,s,B.ab),s,s,s,B.zU,s,s,s),s,s,20,s,20,s)}}
+return A.yI(s,A.jh(s,A.a1t(A.X(new A.ag(B.By,new A.Ki(),q),!0,q.h("ao.E")),B.ez,B.db),B.w,s,s,new A.cN(B.ih,s,s,r,s,s,B.ab),s,s,s,B.zU,s,s,s),s,s,20,s,20,s)}}
 A.Ki.prototype={
 $1(a){return new A.e2(B.zS,A.acX("\u2022 "+a,B.Jf),null)},
 $S:345}
@@ -54400,7 +54400,7 @@ B.A0=new A.ox(1,"enabled")
 B.cJ=new A.ox(2,"disabled")
 B.A1=new A.wx(null)
 B.A2=new A.oG(null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.BI=A.a(s(["Hover to magnify icons","Drag apps from right to install","Reorder dock items","Install apps from right","Smooth insertion animations"]),t.s)
+B.By=A.a(s(["Theme ManagementHover to magnify icons","Drag apps from right to install","Reorder dock items","Install apps from right","Smooth insertion animations"]),t.s)
 B.A3=new A.wJ(null)
 B.A4=new A.oK(null)
 B.A5=new A.Ko(0,"tight")
@@ -54751,10 +54751,10 @@ B.wz=new A.f(4281812815)
 B.wm=new A.f(4280693304)
 B.DS=new A.aW([50,B.yn,100,B.y0,200,B.xH,300,B.xs,400,B.x9,500,B.x0,600,B.wV,700,B.wK,800,B.wz,900,B.wm],t.m)
 B.Em=new A.bZ(B.DS,4284513675)
-B.BE=A.a(s([B.Ep,B.Ec,B.Ek,B.El,B.En,B.b3,B.Ee,B.Eb,B.Ed,B.Ej,B.Eo,B.Ef,B.Eg,B.Eh,B.Er,B.Ei,B.Eq,B.Em]),A.a0("v<bZ>"))
+B.BF=A.a(s([B.Ep,B.Ec,B.Ek,B.El,B.En,B.b3,B.Ee,B.Eb,B.Ed,B.Ej,B.Eo,B.Ef,B.Eg,B.Eh,B.Er,B.Ei,B.Eq,B.Em]),A.a0("v<bZ>"))
 B.F=new A.is(0,"rtl")
 B.m=new A.is(1,"ltr")
-B.BF=A.a(s([B.F,B.m]),A.a0("v<is>"))
+B.BG=A.a(s([B.F,B.m]),A.a0("v<is>"))
 B.tP=new A.mB(0,"topLeft")
 B.tS=new A.mB(3,"bottomRight")
 B.Md=new A.hs(B.tP,B.tS)
@@ -54763,11 +54763,11 @@ B.tQ=new A.mB(1,"topRight")
 B.tR=new A.mB(2,"bottomLeft")
 B.Me=new A.hs(B.tQ,B.tR)
 B.Mf=new A.hs(B.tR,B.tQ)
-B.BG=A.a(s([B.Md,B.Mg,B.Me,B.Mf]),A.a0("v<hs>"))
+B.BH=A.a(s([B.Md,B.Mg,B.Me,B.Mf]),A.a0("v<hs>"))
 B.uw=new A.l5()
 B.rS=new A.zG(1,"page")
 B.fC=new A.di(B.aO,B.rS)
-B.BH=A.a(s([B.uw,B.fC]),A.a0("v<ai>"))
+B.BI=A.a(s([B.uw,B.fC]),A.a0("v<ai>"))
 B.iO=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.iP=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.BJ=A.a(s(["click","scroll"]),t.s)
@@ -55652,22 +55652,22 @@ B.C7=A.a(s([B.nH,null,null,B.ff]),t.L)
 B.C8=A.a(s([B.nI,null,null,B.fg]),t.L)
 B.BV=A.a(s([B.ce,B.ce,B.d9,null]),t.L)
 B.C9=A.a(s([B.d4,null,B.d4,null]),t.L)
-B.By=A.a(s([B.an,null,null,B.f9]),t.L)
-B.Bz=A.a(s([B.ak,null,null,B.fb]),t.L)
-B.BA=A.a(s([B.al,null,null,B.fd]),t.L)
+B.Bz=A.a(s([B.an,null,null,B.f9]),t.L)
+B.BA=A.a(s([B.ak,null,null,B.fb]),t.L)
+B.BB=A.a(s([B.al,null,null,B.fd]),t.L)
 B.BK=A.a(s([B.ao,null,null,B.ff]),t.L)
 B.BS=A.a(s([B.f_,null,null,B.fc]),t.L)
 B.BW=A.a(s([B.cc,B.cc,B.d7,null]),t.L)
 B.Bo=A.a(s([B.aa,null,null,B.f6]),t.L)
-B.BB=A.a(s([B.b1,null,null,B.f8]),t.L)
+B.BC=A.a(s([B.b1,null,null,B.f8]),t.L)
 B.C4=A.a(s([B.d3,null,null,B.f5]),t.L)
-B.BC=A.a(s([B.b2,null,null,B.fe]),t.L)
+B.BD=A.a(s([B.b2,null,null,B.fe]),t.L)
 B.BT=A.a(s([B.f0,null,null,B.f7]),t.L)
 B.BX=A.a(s([B.cf,B.cf,B.da,null]),t.L)
-B.BD=A.a(s([B.ca,null,null,B.fa]),t.L)
+B.BE=A.a(s([B.ca,null,null,B.fa]),t.L)
 B.BU=A.a(s([B.cb,null,null,B.fg]),t.L)
 B.BY=A.a(s([B.cd,B.cd,B.d8,null]),t.L)
-B.E9=new A.aW(["*",B.C_,"+",B.C0,"-",B.C1,".",B.C2,"/",B.C3,"0",B.Bp,"1",B.Bq,"2",B.Br,"3",B.Bs,"4",B.Bt,"5",B.Bu,"6",B.Bv,"7",B.Bw,"8",B.C7,"9",B.C8,"Alt",B.BV,"AltGraph",B.C9,"ArrowDown",B.By,"ArrowLeft",B.Bz,"ArrowRight",B.BA,"ArrowUp",B.BK,"Clear",B.BS,"Control",B.BW,"Delete",B.Bo,"End",B.BB,"Enter",B.C4,"Home",B.BC,"Insert",B.BT,"Meta",B.BX,"PageDown",B.BD,"PageUp",B.BU,"Shift",B.BY],A.a0("aW<x,C<b?>>"))
+B.E9=new A.aW(["*",B.C_,"+",B.C0,"-",B.C1,".",B.C2,"/",B.C3,"0",B.Bp,"1",B.Bq,"2",B.Br,"3",B.Bs,"4",B.Bt,"5",B.Bu,"6",B.Bv,"7",B.Bw,"8",B.C7,"9",B.C8,"Alt",B.BV,"AltGraph",B.C9,"ArrowDown",B.Bz,"ArrowLeft",B.BA,"ArrowRight",B.BB,"ArrowUp",B.BK,"Clear",B.BS,"Control",B.BW,"Delete",B.Bo,"End",B.BC,"Enter",B.C4,"Home",B.BD,"Insert",B.BT,"Meta",B.BX,"PageDown",B.BE,"PageUp",B.BU,"Shift",B.BY],A.a0("aW<x,C<b?>>"))
 B.xm=new A.f(4286755327)
 B.wI=new A.f(4282682111)
 B.wr=new A.f(4280908287)

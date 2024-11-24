@@ -6339,7 +6339,7 @@ if(a==="https")return"https"
 if(a==="package")return"package"
 return a},
 a4S(a,b,c){if(a==null)return""
-return A.ur(a,b,c,B.Bx,!1,!1)},
+return A.ur(a,b,c,B.By,!1,!1)},
 a4P(a,b,c,d,e,f){var s,r=e==="file",q=r||f
 if(a==null)return r?"/":""
 else s=A.ur(a,b,c,B.iO,!0,!0)
@@ -51780,7 +51780,7 @@ return A.vj(null,B.X,null,B.K,59,new A.aV(r,0,r,0),s)},
 $S:107}
 A.wJ.prototype={
 L(a){var s=null,r=A.l9(8),q=t.sH
-return A.yI(s,A.jh(s,A.a1t(A.X(new A.ag(B.By,new A.Ki(),q),!0,q.h("ao.E")),B.ez,B.db),B.w,s,s,new A.cN(B.ih,s,s,r,s,s,B.ab),s,s,s,B.zU,s,s,s),s,s,20,s,20,s)}}
+return A.yI(s,A.jh(s,A.a1t(A.X(new A.ag(B.Bp,new A.Ki(),q),!0,q.h("ao.E")),B.ez,B.db),B.w,s,s,new A.cN(B.ih,s,s,r,s,s,B.ab),s,s,s,B.zU,s,s,s),s,s,20,s,20,s)}}
 A.Ki.prototype={
 $1(a){return new A.e2(B.zS,A.acX("\u2022 "+a,B.Jf),null)},
 $S:345}
@@ -54400,7 +54400,7 @@ B.A0=new A.ox(1,"enabled")
 B.cJ=new A.ox(2,"disabled")
 B.A1=new A.wx(null)
 B.A2=new A.oG(null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.By=A.a(s(["Theme ManagementHover to magnify icons","Drag apps from right to install","Reorder dock items","Install apps from right","Smooth insertion animations"]),t.s)
+B.Bp=A.a(s(["Theme Management","Hover to magnify icons","Drag apps from right to install","Reorder dock items","Install apps from right","Smooth insertion animations"]),t.s)
 B.A3=new A.wJ(null)
 B.A4=new A.oK(null)
 B.A5=new A.Ko(0,"tight")
@@ -54531,7 +54531,7 @@ B.Ml=new A.ht(6,0.11)
 B.Mm=new A.ht(8,0.12)
 B.Mn=new A.ht(12,0.14)
 B.iM=A.a(s([B.Mk,B.Mp,B.Mo,B.Ml,B.Mm,B.Mn]),A.a0("v<ht>"))
-B.Bx=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
+B.By=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.A8=new A.dS(0)
 B.A9=new A.dS(1)
 B.Aa=new A.dS(2)
@@ -55640,14 +55640,14 @@ B.C0=A.a(s([B.nv,null,null,B.nK]),t.L)
 B.C1=A.a(s([B.nw,null,null,B.nL]),t.L)
 B.C2=A.a(s([B.nx,null,null,B.f6]),t.L)
 B.C3=A.a(s([B.ny,null,null,B.nM]),t.L)
-B.Bp=A.a(s([B.nz,null,null,B.f7]),t.L)
-B.Bq=A.a(s([B.nA,null,null,B.f8]),t.L)
-B.Br=A.a(s([B.nB,null,null,B.f9]),t.L)
-B.Bs=A.a(s([B.nC,null,null,B.fa]),t.L)
-B.Bt=A.a(s([B.nD,null,null,B.fb]),t.L)
-B.Bu=A.a(s([B.nE,null,null,B.fc]),t.L)
-B.Bv=A.a(s([B.nF,null,null,B.fd]),t.L)
-B.Bw=A.a(s([B.nG,null,null,B.fe]),t.L)
+B.Bq=A.a(s([B.nz,null,null,B.f7]),t.L)
+B.Br=A.a(s([B.nA,null,null,B.f8]),t.L)
+B.Bs=A.a(s([B.nB,null,null,B.f9]),t.L)
+B.Bt=A.a(s([B.nC,null,null,B.fa]),t.L)
+B.Bu=A.a(s([B.nD,null,null,B.fb]),t.L)
+B.Bv=A.a(s([B.nE,null,null,B.fc]),t.L)
+B.Bw=A.a(s([B.nF,null,null,B.fd]),t.L)
+B.Bx=A.a(s([B.nG,null,null,B.fe]),t.L)
 B.C7=A.a(s([B.nH,null,null,B.ff]),t.L)
 B.C8=A.a(s([B.nI,null,null,B.fg]),t.L)
 B.BV=A.a(s([B.ce,B.ce,B.d9,null]),t.L)
@@ -55667,7 +55667,7 @@ B.BX=A.a(s([B.cf,B.cf,B.da,null]),t.L)
 B.BE=A.a(s([B.ca,null,null,B.fa]),t.L)
 B.BU=A.a(s([B.cb,null,null,B.fg]),t.L)
 B.BY=A.a(s([B.cd,B.cd,B.d8,null]),t.L)
-B.E9=new A.aW(["*",B.C_,"+",B.C0,"-",B.C1,".",B.C2,"/",B.C3,"0",B.Bp,"1",B.Bq,"2",B.Br,"3",B.Bs,"4",B.Bt,"5",B.Bu,"6",B.Bv,"7",B.Bw,"8",B.C7,"9",B.C8,"Alt",B.BV,"AltGraph",B.C9,"ArrowDown",B.Bz,"ArrowLeft",B.BA,"ArrowRight",B.BB,"ArrowUp",B.BK,"Clear",B.BS,"Control",B.BW,"Delete",B.Bo,"End",B.BC,"Enter",B.C4,"Home",B.BD,"Insert",B.BT,"Meta",B.BX,"PageDown",B.BE,"PageUp",B.BU,"Shift",B.BY],A.a0("aW<x,C<b?>>"))
+B.E9=new A.aW(["*",B.C_,"+",B.C0,"-",B.C1,".",B.C2,"/",B.C3,"0",B.Bq,"1",B.Br,"2",B.Bs,"3",B.Bt,"4",B.Bu,"5",B.Bv,"6",B.Bw,"7",B.Bx,"8",B.C7,"9",B.C8,"Alt",B.BV,"AltGraph",B.C9,"ArrowDown",B.Bz,"ArrowLeft",B.BA,"ArrowRight",B.BB,"ArrowUp",B.BK,"Clear",B.BS,"Control",B.BW,"Delete",B.Bo,"End",B.BC,"Enter",B.C4,"Home",B.BD,"Insert",B.BT,"Meta",B.BX,"PageDown",B.BE,"PageUp",B.BU,"Shift",B.BY],A.a0("aW<x,C<b?>>"))
 B.xm=new A.f(4286755327)
 B.wI=new A.f(4282682111)
 B.wr=new A.f(4280908287)
